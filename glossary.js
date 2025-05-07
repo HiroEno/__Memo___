@@ -96,6 +96,7 @@ const glossary = [
 {target:`＿カ`, content:`車型追加の略称。<br>【現場】`},
 {target:`＿マ`, content:`マイナーチェンジの略称。<br>【現場】`},
 {target:`MG`, content:`モータとジェネレータの略称。<br>【現場】`},
+{target:`TM`, content:`トランスミッションの略称。<br>【現場】`},
 {target:`Assy`, content:`複数の部品を組立て最終製品を完成させる工程の略称。<br>【現場】`},
 {target:`CASE（Computer Aided Software Engineering）`, content:`コンピュターを利用してプログラミングやデバックを自動化したり、関連業務の効率向上を図ること。<br>【現場】`},
 {target:`SE（Simultaneous Engineering）`, content:`技術・生技・工場が一体となって車両開発～生産準備を行うこと。<br>同時・併行して開発が進められるため、開発期間短縮及び開発費低減の効果が大きい。<br>【現場】`},
